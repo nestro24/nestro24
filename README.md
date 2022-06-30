@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nestro24
-- 👀 I’m interested in ... HTML, CSS DEV OPS
+- 👀 I’m interested in ... HTML, CSS, DEV OPS
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... Some projects
 - 📫 How to reach me ... @ogilogi_sinivie on twitter
